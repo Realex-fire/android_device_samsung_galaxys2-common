@@ -52,3 +52,4 @@
 
 # Executables
 /system/bin/macloader                                            u:object_r:macloader_exec:s0
+/sbin/ext/post-init.sh                                           u:object_r:postinit_exec:s0
